@@ -17,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asxyi&show_icons=true&locale=en&layout=compact" alt="asxyi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=asxyi&show_icons=true&locale=en" alt="asxyi" /></p>
 
+----
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wr3q3cg6mzsczjk8sruoga5vv&count=1)
