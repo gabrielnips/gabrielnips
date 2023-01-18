@@ -10,9 +10,10 @@
 
 
 ----
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=asxyi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asxyi&show_icons=true&locale=en&layout=compact" alt="asxyi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=asxyi&show_icons=true&locale=en" alt="asxyi" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asxyi&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asxyi&langs_count=8&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+----
