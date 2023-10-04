@@ -15,14 +15,4 @@
 </div>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielnips&show_icons=true&count_private=true&hide_border=true&theme=dark#gh-dark-mode-only" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnips&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only" align="left" style="width: 100%" />
-
-
 
