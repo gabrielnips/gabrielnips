@@ -2,14 +2,9 @@
 
 ## Sobre Mim
 
-Um entusiasta de programação.
+Um entusiasta de programação e TI em geral.
 - [Site Pessoal](https://www.gabrielnips.cloud/)
 
-##
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,nodejs,tailwind,react,next,js,ts" />
-
-</div>
 
 
